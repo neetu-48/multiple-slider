@@ -26,6 +26,7 @@
     padding: 24px;
     margin-left: 12px;
     margin-right: 12px;
+    max-width: 364px;
 }
 
 .min-vh-100 {
@@ -38,6 +39,19 @@
 
 .gap-8 {
     gap: 8px;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+.py-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.relative {
+    position: relative;
 }
 
 .mark {
